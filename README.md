@@ -3,3 +3,6 @@
 * Computer Lab
 * Homework
 * Quiz
+
+## Datasets
+* housing.csv from [https://github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2)
