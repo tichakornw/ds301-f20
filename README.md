@@ -7,3 +7,4 @@
 ## Datasets
 * housing.csv from [https://github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2)
 * brain-bodysize.csv from [https://github.com/asukul/DS301-f19](https://github.com/asukul/DS301-f19)
+* automobile.csv from [https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python/blob/master/Module3/Automobile%20price%20data%20_Raw_.csv](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python/blob/master/Module3/Automobile%20price%20data%20_Raw_.csv)
